@@ -1,0 +1,284 @@
+{
+  "id": "verve",
+  "display_name": "Verve",
+  "display_name_ka": "ვერვე",
+  "source": "Verve Brand Identity brand book (28 pages). Values under \"derived_for_video\" are not in the brand book; they are video-specific roles built only from brand colors.",
+  "language": "ka",
+  "contact": {
+    "address": "რუსთავი, ვახუშტის 6",
+    "phone": "+995 511 70 73 00",
+    "email": "info@verve-aesthetic.com"
+  },
+  "brand_personality": [
+    "premium",
+    "calm",
+    "natural",
+    "minimal"
+  ],
+  "palette": {
+    "cream_silk": {
+      "hex": "#F3F1E9",
+      "rgb": [
+        243,
+        241,
+        233
+      ],
+      "cmyk": [
+        4,
+        3,
+        7,
+        0
+      ]
+    },
+    "tanned_leather": {
+      "hex": "#DCC7AA",
+      "rgb": [
+        220,
+        199,
+        170
+      ],
+      "cmyk": [
+        14,
+        20,
+        34,
+        0
+      ]
+    },
+    "smoked_moss": {
+      "hex": "#6A6F59",
+      "rgb": [
+        107,
+        112,
+        90
+      ],
+      "cmyk": [
+        57,
+        43,
+        65,
+        20
+      ]
+    },
+    "dark_walnut": {
+      "hex": "#5A473E",
+      "rgb": [
+        91,
+        72,
+        63
+      ],
+      "cmyk": [
+        52,
+        61,
+        66,
+        41
+      ]
+    },
+    "charcoal_noir": {
+      "hex": "#29211B",
+      "rgb": [
+        41,
+        33,
+        27
+      ],
+      "cmyk": [
+        63,
+        65,
+        70,
+        74
+      ]
+    },
+    "black": {
+      "hex": "#111111",
+      "rgb": [
+        19,
+        19,
+        19
+      ],
+      "cmyk": [
+        73,
+        67,
+        66,
+        82
+      ]
+    },
+    "white": {
+      "hex": "#FFFFFF",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "cmyk": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "approved_pairings": [
+    {
+      "background": "smoked_moss",
+      "text": "cream_silk",
+      "contrast": 4.61,
+      "use": "large text and titles only (below 7:1)"
+    },
+    {
+      "background": "dark_walnut",
+      "text": "tanned_leather",
+      "contrast": 5.32,
+      "use": "headers and callouts"
+    },
+    {
+      "background": "charcoal_noir",
+      "text": "tanned_leather",
+      "contrast": 9.64,
+      "use": "body text, captions"
+    },
+    {
+      "background": "tanned_leather",
+      "text": "dark_walnut",
+      "contrast": 5.32,
+      "use": "headers and callouts"
+    },
+    {
+      "background": "cream_silk",
+      "text": "smoked_moss",
+      "contrast": 4.61,
+      "use": "large text only"
+    },
+    {
+      "background": "white",
+      "text": "black",
+      "contrast": 18.88,
+      "use": "documents"
+    }
+  ],
+  "avoid_pairings": [
+    {
+      "background": "smoked_moss",
+      "text": "tanned_leather",
+      "contrast": 3.17,
+      "reason": "too low for text"
+    }
+  ],
+  "typography": {
+    "header_ka": {
+      "family": "Noto Serif Georgian",
+      "weight": "Bold",
+      "case": "mtavruli (uppercase)"
+    },
+    "header_en": {
+      "family": "Zodiak",
+      "weight": "Bold",
+      "note": "Not bundled: Fontshare font, add fonts/Zodiak-Bold.otf manually. Fallback: Noto Serif Georgian Bold."
+    },
+    "body": {
+      "family": "Noto Sans Georgian",
+      "weight": "Light"
+    },
+    "bundled_files": "fonts/ (Noto Sans Georgian Light/Regular/SemiBold, Noto Serif Georgian Regular/Bold, SIL OFL)"
+  },
+  "logo": {
+    "wordmark_latin": "brands/verve/logo/wordmark-latin.png",
+    "wordmark_georgian": "brands/verve/logo/wordmark-georgian.png",
+    "symbol": "brands/verve/logo/symbol.png",
+    "format": "White RGBA masks rendered from the brand book vectors; tint only to an approved color.",
+    "approved_color_variations": [
+      {
+        "logo": "cream_silk",
+        "background": "smoked_moss"
+      },
+      {
+        "logo": "tanned_leather",
+        "background": "dark_walnut"
+      },
+      {
+        "logo": "tanned_leather",
+        "background": "charcoal_noir"
+      },
+      {
+        "logo": "dark_walnut",
+        "background": "tanned_leather"
+      },
+      {
+        "logo": "smoked_moss",
+        "background": "cream_silk"
+      },
+      {
+        "logo": "black",
+        "background": "white"
+      },
+      {
+        "logo": "white",
+        "background": "black or dark photo"
+      }
+    ],
+    "clear_space": "At least the height of the symbol on every side.",
+    "prohibited": [
+      "other colors",
+      "gradients or effects",
+      "outline version",
+      "stretching or squashing",
+      "changed transparency",
+      "unapproved background colors"
+    ]
+  },
+  "pattern": "Diamond lattice with the symbol at intersections; thin lines, low contrast, background use only.",
+  "derived_for_video": {
+    "caption": {
+      "font": "Noto Sans Georgian SemiBold",
+      "size": 56,
+      "text": "#F3F1E9",
+      "box": "#29211B",
+      "box_opacity": 0.82,
+      "highlight": "#DCC7AA",
+      "margin_bottom": 400,
+      "max_words_per_caption": 7,
+      "note": "Brand body weight is Light; SemiBold is used for captions over moving footage for legibility."
+    },
+    "title_card": {
+      "background": "#6A6F59",
+      "headline": "#F3F1E9",
+      "headline_font": "Noto Serif Georgian Bold",
+      "alt": {
+        "background": "#29211B",
+        "headline": "#DCC7AA"
+      }
+    },
+    "end_card": {
+      "background": "#29211B",
+      "logo_tint": "#DCC7AA",
+      "contact_text": "#F3F1E9"
+    },
+    "scrim": {
+      "color": "#29211B",
+      "opacity": 0.55,
+      "use": "under text placed directly on footage"
+    },
+    "motion": "restrained: slow fades and gentle push-ins, no bounce, no flashing",
+    "grade_hint": "warm, soft contrast, slightly desaturated greens toward Smoked Moss"
+  },
+  "content_pillars": [
+    "space-and-atmosphere",
+    "educational",
+    "behind-the-scenes",
+    "staff-intro"
+  ],
+  "services_listed_in_brand_book": [
+    "ინექციური პროცედურები",
+    "ეპილაცია",
+    "ფრჩხილების მოწესრიგება"
+  ],
+  "allowed_claims": [
+    "Only verifiable facts supplied by the center"
+  ],
+  "do_not_claim": [
+    "guaranteed results",
+    "zero risks",
+    "medical treatment advice",
+    "fabricated reviews",
+    "unverified before/after"
+  ],
+  "approval_required": true,
+  "publish_automatically": false
+}

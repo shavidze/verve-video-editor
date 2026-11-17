@@ -1,0 +1,174 @@
+{
+  "status": "draft",
+  "approval_note": "Caption text was reconstructed from a low-confidence machine transcript and the last clip is a guess. A person must verify every caption against the audio before setting status=approved.",
+  "brand_profile": "brands/verve.json",
+  "output": "jobs/beauty-days/output.mp4",
+  "segments": [
+    {
+      "source": "jobs/beauty-days/raw/c05.mp4",
+      "start": 1.0,
+      "end": 3.35
+    },
+    {
+      "source": "jobs/beauty-days/raw/c06.mp4",
+      "start": 0.72,
+      "end": 7.75,
+      "zoom": 1.07
+    },
+    {
+      "source": "jobs/beauty-days/raw/c04.mp4",
+      "start": 0.72,
+      "end": 7.85
+    },
+    {
+      "source": "jobs/beauty-days/raw/c09.mp4",
+      "start": 0.78,
+      "end": 4.9,
+      "zoom": 1.07
+    },
+    {
+      "source": "jobs/beauty-days/raw/c01.mp4",
+      "start": 0.8,
+      "end": 11.55
+    },
+    {
+      "source": "jobs/beauty-days/raw/c03.mp4",
+      "start": 0.62,
+      "end": 5.85,
+      "zoom": 1.07
+    },
+    {
+      "source": "jobs/beauty-days/raw/c02.mp4",
+      "start": 0.8,
+      "end": 6.05
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.1,
+      "end": 2.22,
+      "text": "Verve Beauty Days იწყება"
+    },
+    {
+      "start": 2.45,
+      "end": 4.59,
+      "text": "ორი კვირის განმავლობაში"
+    },
+    {
+      "start": 4.62,
+      "end": 6.79,
+      "text": "Verve-ის კოსმეტოლოგიურ პროცედურებზე"
+    },
+    {
+      "start": 6.82,
+      "end": 9.22,
+      "text": "*20%-იანი* ფასდაკლებით ისარგებლებ"
+    },
+    {
+      "start": 9.48,
+      "end": 11.01,
+      "text": "კანის ხარისხზე ზრუნვა,"
+    },
+    {
+      "start": 11.04,
+      "end": 14.05,
+      "text": "შენი ინდივიდუალური საჭიროებების გათვალისწინება"
+    },
+    {
+      "start": 14.08,
+      "end": 16.35,
+      "text": "და პროფესიონალური ესთეტიკური მიდგომა —"
+    },
+    {
+      "start": 16.61,
+      "end": 18.31,
+      "text": "სწორედ ეს ქმნის ჩვენთვის"
+    },
+    {
+      "start": 18.34,
+      "end": 20.45,
+      "text": "თითოეული ვიზიტის მნიშვნელობას"
+    },
+    {
+      "start": 20.73,
+      "end": 23.64,
+      "text": "თუ დიდი ხანია გეგმავ შენთვის სასურველ პროცედურას"
+    },
+    {
+      "start": 23.67,
+      "end": 26.72,
+      "text": "ან ჯერ კიდევ ეძებ ადგილს, სადაც საკუთარ თავზე ზრუნვა"
+    },
+    {
+      "start": 26.75,
+      "end": 28.84,
+      "text": "სასიამოვნო გამოცდილებად იქცევა,"
+    },
+    {
+      "start": 28.87,
+      "end": 31.22,
+      "text": "მოხარული ვიქნებით გაგიცნოთ"
+    },
+    {
+      "start": 31.48,
+      "end": 34.27,
+      "text": "*14 დღე* — სპეციალური შეთავაზება"
+    },
+    {
+      "start": 34.3,
+      "end": 36.45,
+      "text": "და შენი დრო საკუთარი თავისთვის"
+    },
+    {
+      "start": 36.71,
+      "end": 38.55,
+      "text": "მოგვწერე,"
+    },
+    {
+      "start": 38.58,
+      "end": 39.71,
+      "text": "გაიგე დეტალები"
+    },
+    {
+      "start": 39.74,
+      "end": 41.66,
+      "text": "და *დაჯავშნე ვიზიტი* Verve-ში"
+    }
+  ],
+  "overlays": [
+    {
+      "start": 6.82,
+      "end": 9.22,
+      "x": 300,
+      "y": 215,
+      "w": 480,
+      "h": 210,
+      "text": "−20%",
+      "background": "#6A6F59",
+      "color": "#F3F1E9",
+      "size": 130
+    }
+  ],
+  "end_card": {
+    "duration": 3.0,
+    "background": "#6A6F59",
+    "logo": "brands/verve/logo/wordmark-latin.png",
+    "logo_tint": "#F3F1E9",
+    "logo_width": 620,
+    "logo_y": 760,
+    "text_color": "#F3F1E9",
+    "text_y": 1090,
+    "lines": [
+      "რუსთავი, ვახუშტის 6",
+      "+995 511 70 73 00"
+    ]
+  },
+  "audio": {
+    "loudnorm": -16
+  },
+  "unused_sources": [
+    "jobs/beauty-days/raw/c07.mp4",
+    "jobs/beauty-days/raw/c08.mp4"
+  ],
+  "notes": "Seven takes of one talking-head script, ordered by matching their audio to the previously published reel. Lead-in and tail silence trimmed; every second take is punched in 7% to soften the jump cut. c07 and c08 are alternate takes that the earlier reel did not use; their content is unverified, so they are left out."
+}
